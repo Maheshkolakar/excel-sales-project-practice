@@ -23,7 +23,7 @@ This is a full Excel dashboard project analyzing sales performance. It includes 
 ![Dashboard Preview](Dashboard_Preview.png)
 
 ## 📁 Download Project
-👉 Click [here](sales project practice.xlsm) to download the Excel file.
+👉 Click [here](sales%20project%20practice.xlsm) to download the Excel file.
 
 ## 🎯 Goal
 This project was done to practice dashboard creation, data analysis, and reporting using Excel. Ideal for job-ready Excel skills.
