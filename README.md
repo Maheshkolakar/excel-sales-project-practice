@@ -20,7 +20,7 @@ This is a full Excel dashboard project analyzing sales performance. It includes 
 
 ## 🖼️ Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## 📁 Download Project
 👉 Click [here](Sales_Project_Practice.xlsm) to download the Excel file.
